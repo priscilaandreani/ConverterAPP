@@ -1,0 +1,19 @@
+body{
+  background-color:#EFEEEE ;
+  color: #0E0F0F;
+}
+
+h2{
+  text-align: center;
+}
+
+.attention {
+  font-style: italic;
+  color: rgba(10,186,181,1);
+}
+
+span {
+  color: rgba(10,186,181,1);
+  text-decoration: underline overline;
+  text-decoration-color: rgba(10,186,181,.1);
+}
